@@ -14,7 +14,7 @@ const ResourceCard = ({
       href={url}
       target="_blank"
       rel="noopener noreferrer"
-      className="group block p-5 rounded-xl bg-zinc-900 hover:bg-zinc-800 transition duration-300 shadow-md border border-zinc-700 hover:border-blue-500"
+      className="group block p-4 rounded-xl bg-zinc-1000 hover:bg-zinc-900 transition duration-400 shadow-md border border-zinc-700 hover:border-blue-500"
     >
       <div className="flex items-center gap-3 mb-3">
         <div className="text-blue-400 group-hover:text-blue-500 transition">{icon}</div>

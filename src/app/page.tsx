@@ -18,7 +18,7 @@ const frontendResources = [
 ]
 
 const backendResources = [
-  { name: 'Node.js', description: 'JavaScript runtime', url: 'https://nodejs.org', icon: <SiNodedotjs size={32} /> },
+  { name: 'Node.js', description: 'JavaScript runtime', url: 'https://nodejs.org',  icon: <SiNodedotjs size={32} /> },
   { name: 'Express', description: 'Fast, minimalist backend framework', url: 'https://expressjs.com', icon: <SiExpress size={32} /> },
   { name: 'FastAPI', description: 'High-performance Python framework', url: 'https://fastapi.tiangolo.com', icon: <SiFastapi size={32} /> },
   { name: 'Django', description: 'Python web framework', url: 'https://www.djangoproject.com/', icon: <SiDjango size={32} /> },
